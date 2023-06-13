@@ -10,7 +10,9 @@
 
 ## 기능
 
-![메인](https://github.com/BTS-ReadMe/.github/assets/110506500/48d5b681-c6b7-4471-aeb5-a19c10ff144f)![소설](https://github.com/BTS-ReadMe/.github/assets/110506500/ad986a26-091f-4db4-8382-25479707c984)![검색](https://github.com/BTS-ReadMe/.github/assets/110506500/9315179f-606c-4085-8be2-3f5731d59e3e)
+<img src="https://github.com/BTS-ReadMe/.github/assets/110506500/48d5b681-c6b7-4471-aeb5-a19c10ff144f" width="300" height="500" alt="이미지">
+<img src="https://github.com/BTS-ReadMe/.github/assets/110506500/ad986a26-091f-4db4-8382-25479707c984" width="300" height="500" alt="이미지">
+<img src="https://github.com/BTS-ReadMe/.github/assets/110506500/9315179f-606c-4085-8be2-3f5731d59e3e" width="300" height="500" alt="이미지">
 
 
 ## 설치 방법
