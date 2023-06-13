@@ -1,2 +1,0 @@
-# .github
-BTS_ReadMe
