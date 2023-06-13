@@ -34,7 +34,12 @@ BackEnd
 ```sh
 ./gradlew -x build
 ```
+## FrontEnd 개발 환경 설정
 
+```sh
+./gradlew -x build
+./npm install
+```
 
 
 ## 페이지 접근 권한
