@@ -37,8 +37,8 @@ BackEnd
 ## FrontEnd 개발 환경 설정
 
 ```sh
-./gradlew -x build
-./npm install
+설치 : npm install or yarn
+실행 : npm run devlocal or yarn devlocal
 ```
 
 
