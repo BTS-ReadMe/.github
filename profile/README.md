@@ -62,8 +62,8 @@ Back-end
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20cloud-6DB33F?style=flat&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20batch-6DB33F?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&for-the-badge&logo=MongoDB&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&for-the-badge&logo=apachekafka&logoColor=white" />
