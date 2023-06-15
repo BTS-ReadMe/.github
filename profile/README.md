@@ -3,10 +3,14 @@
 
 
 ## 멤버
-* 팀장 : 송진영(BE)
+* 팀장 : 송진영(BE) : 섹션 서비스, 데이터 플로우 처리
 * 팀원
-  * FE : 김민경, 이시현
-  * BE : 정현준, 주영민
+  * FE
+    - 김민경 : User 서비스, Search, Viewer 서비스, BFF 처리, Client Data 최적화
+    - 이시현 : User Sign In/Up 플로우 처리, 충전/결제 기능, 관리자, 내서재, Profile 포함 운영 기능
+  * BE
+    - 정현준 : 유저 서비스, 결제 Flow 처리, OAuth API 처리, 보안담당(JWT), 실시간 처리
+    - 주영민 : 소설, 유틸, Gateway 서비스, 서버 설계, CI/CD, 모니터링, DevOps
 
 ## 기능
 
