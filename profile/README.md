@@ -66,19 +66,19 @@ Back-end
 <img src="https://img.shields.io/badge/Spring%20batch-6DB33F?style=flat&logoColor=white" />
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&for-the-badge&logo=MongoDB&logoColor=white" />
 
-<img src="https://img.shields.io/badge/kafka-231F20?style=flat&for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/Zookeeper-FF0000?style=flat&for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/Axon%20server-004088?style=flat&for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/kafka-231F20?style=flat&for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Zookeeper-FF0000?style=flat&for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Axon%20server-004088?style=flat&for-the-badge&logoColor=white" />
 
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
 <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white"> 
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/gitaction-2088FF?style=flat&for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat&for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/gitaction-2088FF?style=flat&for-the-badge&logo=githubactions&logoColor=white" />
 
 
 FrontEnt  
