@@ -45,61 +45,10 @@ BackEnd
 ## 페이지 접근 권한
 |권한|이름|
 |:-:|:-:|
+|ADMIN|관리자|
 |USER|로그인한 유저|
 |GUEST|게스트|
 
-## Enviroment
-
-
-|권한 이름|내용|
-|:-:|:-:|
-|$DB_USERNAME|DB 이름|
-|$DB_PWD|DB 비밀번호|
-|$SCHEMA_NAME| SCHEMA 이름|
-|$PORT|포트번호|
-|$IP|아이피|
-|$ADMIN_MAIL_ID| 메일 아이디 |
-|$ADMIN_MAIL_PWD| 메일 비밀번호|
-|SECRETKEY| Encryption Key |
-
-- application.yml 설정
-```
-spring:
-  datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
-    username: ${{ DB_USERNAME }}
-    url: jdbc:mysql://${{ IP }}:${{ PORT }}/${{ SCHEMA_NAME }}
-    password: {{ DB_PWD }}
-  jpa:
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL5Dialect
-        format_sql: true
-    hibernate:
-      ddl-auto: update
-  data:
-    redis:
-      host: ${{ IP }}
-      port: ${{ PORT }}
-SECRET_KEY: ${{ SECRETKEY }}
-```
-
-- email.properties 설정
-```
-mail.smtp.socketFactory.class=javax.net.ssl.SSLSocketFactory
-mail.smtp.socketFactory.fallback=false
-mail.smtp.socketFactory.port=465
-mail.smtp.starttls.required=true
-mail.smtp.starttls.enable=true
-mail.smtp.port=465
-mail.smtp.auth=true
-
-AdminMail.id={ADMIN_MAIL_ID}
-AdminMail.password={ADMIN_MAIL_PWD}
-```
-
-
-## 기여 방법
 
 ### Tech stack
 Back-end  
