@@ -70,8 +70,8 @@ Back-end
 <img src="https://img.shields.io/badge/Zookeeper-FF0000?style=flat&for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Axon%20server-004088?style=flat&for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JWT&logoColor=white" />
-<img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-<img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/grafana-F46800?style=flat&for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/prometheus-E6522C?style=flat&for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&for-the-badge&logo=amazonaws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/gitaction-2088FF?style=flat&for-the-badge&logo=githubactions&logoColor=white" />
@@ -83,7 +83,7 @@ FrontEnt
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=ReactQuery&logoColor=white" />
-<img src="https://img.shields.io/badge/Recoil-5A29E4?style=flat&logo=Recoil&logoColor=white" /
+<img src="https://img.shields.io/badge/Recoil-5A29E4?style=flat&logo=Recoil&logoColor=white" />
 <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=PWA&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
